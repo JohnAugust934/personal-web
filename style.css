@@ -27,7 +27,7 @@ header .container {
     border: 5px solid #fff;
     animation: avatar-bounce 1s ease-in-out infinite;
 }
-
+/*
 @keyframes avatar-bounce {
     0% {
         transform: translateY(0);
@@ -41,7 +41,7 @@ header .container {
         transform: translateY(0);
     }
 }
-
+*/
 header .name {
     font-size: 36px;
     font-weight: bold;
