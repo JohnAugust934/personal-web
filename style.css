@@ -27,21 +27,7 @@ header .container {
     border: 5px solid #fff;
     animation: avatar-fade-in 1s;
 }
-/*
-@keyframes avatar-bounce {
-    0% {
-        transform: translateY(0);
-    }
 
-    50% {
-        transform: translateY(-20px);
-    }
-
-    100% {
-        transform: translateY(0);
-    }
-}
-*/
 header .name {
     font-size: 36px;
     font-weight: bold;
@@ -75,10 +61,6 @@ main {
     padding: 50px;
 }
 
-.container {
-    flex-wrap: wrap;
-}
-
 h2 {
     width: 100%;
     text-align: center;
@@ -86,19 +68,23 @@ h2 {
     margin-bottom: 20px;
 }
 
+a img {
+    max-width: 45px;
+}
+
 ul {
     list-style-type: none;
     display: flex;
     justify-content: center;
+    margin-right: 45px;
 }
 
 li {
-    margin-right: 20px;
+    margin: 10px;
 }
 
-a img {
-    width: 50px;
-    height: 50px;
+.social {
+    text-align: center;
 }
 
 p {
