@@ -90,6 +90,10 @@ p {
     text-align: center;
 }
 
+p a {
+    color: white;
+}
+
 footer {
     text-align: center;
     padding: 20px;
