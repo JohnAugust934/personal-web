@@ -73,6 +73,10 @@ main {
     font-size: 35px;
 }
 
+.projetos ul h2 {
+    font-size: 18px;
+}
+
 .projetos img {
     width: 50%;
     margin: 10px 0;
@@ -97,7 +101,7 @@ h2 {
 }
 
 .social a img {
-    max-width: 45px;
+    width: 50px;
 }
 
 .social ul {
