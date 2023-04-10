@@ -69,6 +69,10 @@ main {
     text-align: center;
 }
 
+.projetos h2:nth-child(1) {
+    font-size: 35px;
+}
+
 .projetos img {
     width: 50%;
     margin: 10px 0;
